@@ -278,3 +278,5 @@ btn_start.pack(side="left", padx=5, pady=5)
 
 root.resizable(False, False)
 root.mainloop()
+
+# git 등재 테스트
